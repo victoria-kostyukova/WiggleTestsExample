@@ -3,7 +3,6 @@ require "bundler/setup"
 Bundler.require
 
 Given /^I have entered "([^"]*)" into the query$/ do |term|
-  # Selenium::WebDriver::Chrome.driver_path="../chromedriver.exe"
   @browser = Watir::Browser.new #:chrome
   @browser.goto "google.com"
   @browser.text_field(:name => "q").set term
