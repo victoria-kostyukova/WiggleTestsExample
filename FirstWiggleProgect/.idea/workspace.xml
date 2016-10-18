@@ -20,7 +20,7 @@
     <SUITE FILE_PATH="coverage/FirstWiggleProgect@The_Google_Search_Engine__FirstWiggleProgect.coverage" NAME="The Google Search Engine: FirstWiggleProgect Coverage Results" MODIFIED="1476349606766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="FirstWiggleProgect" />
     <SUITE FILE_PATH="coverage/FirstWiggleProgect@My_behaviour__FirstWiggleProgect.coverage" NAME="My behaviour: FirstWiggleProgect Coverage Results" MODIFIED="1476356269406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="FirstWiggleProgect" />
     <SUITE FILE_PATH="coverage/FirstWiggleProgect@My_behaviour_should_do_something__FirstWiggleProgect.coverage" NAME="My behaviour should do something: FirstWiggleProgect Coverage Results" MODIFIED="1476355730028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="FirstWiggleProgect" />
-    <SUITE FILE_PATH="coverage/FirstWiggleProgect@register_wiggle_test_feature.coverage" NAME="register_wiggle_test.feature Coverage Results" MODIFIED="1476795498697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="FirstWiggleProgect" />
+    <SUITE FILE_PATH="coverage/FirstWiggleProgect@register_wiggle_test_feature.coverage" NAME="register_wiggle_test.feature Coverage Results" MODIFIED="1476789717428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="FirstWiggleProgect" />
     <SUITE FILE_PATH="coverage/FirstWiggleProgect@env.coverage" NAME="env Coverage Results" MODIFIED="1476448122757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/support" MODULE_NAME="FirstWiggleProgect" />
     <SUITE FILE_PATH="coverage/FirstWiggleProgect@main.coverage" NAME="main Coverage Results" MODIFIED="1476782604978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="FirstWiggleProgect" />
     <SUITE FILE_PATH="coverage/FirstWiggleProgect@Run_spec__ie_spec___FirstWiggleProgect.coverage" NAME="Run spec 'ie_spec': FirstWiggleProgect Coverage Results" MODIFIED="1476349650335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="FirstWiggleProgect" />
@@ -49,55 +49,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register_wiggle_test.feature" pinned="false" current-in-tab="true">
+      <file leaf-file-name="register_wiggle_test.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/register_wiggle_test.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016_10_18_15_56_36_I_can_register_a_new_user.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snapshots/2016_10_18_15_56_36_I_can_register_a_new_user.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016_10_18_15_58_40_I_can_register_a_new_user.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snapshots/2016_10_18_15_58_40_I_can_register_a_new_user.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="register_wiggle_test_steps.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/register_wiggle_test_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+            <state relative-caret-position="243">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016_10_18_14_22_12_I_can_register_a_new_user.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/snapshots/2016_10_18_14_22_12_I_can_register_a_new_user.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="env.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/support/env.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="254">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="browser.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/objects/browser.rb">
+      <file leaf-file-name="example.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/example.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -118,6 +121,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example_steps.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/example_steps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -144,6 +157,7 @@
         <option value="$PROJECT_DIR$/feature/example.feature" />
         <option value="$PROJECT_DIR$/src/my_example_spec.rb" />
         <option value="$PROJECT_DIR$/feature/step_definitions/steps.rb" />
+        <option value="$PROJECT_DIR$/features/register_wiggle_test.feature" />
         <option value="$PROJECT_DIR$/support/env.rb" />
         <option value="$PROJECT_DIR$/objects/user.rb" />
         <option value="$PROJECT_DIR$/config.yml" />
@@ -153,12 +167,10 @@
         <option value="$PROJECT_DIR$/main.rb" />
         <option value="$PROJECT_DIR$/features/objects/user.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/example_steps.rb" />
-        <option value="$PROJECT_DIR$/features/support/cucumber_screenshot_env.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/features/objects/browser.rb" />
-        <option value="$PROJECT_DIR$/features/support/env.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/register_wiggle_test_steps.rb" />
-        <option value="$PROJECT_DIR$/features/register_wiggle_test.feature" />
+        <option value="$PROJECT_DIR$/features/support/cucumber_screenshot_env.rb" />
+        <option value="$PROJECT_DIR$/features/support/env.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -218,7 +230,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -344,6 +355,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -614,12 +626,20 @@
       <workItem from="1476430724488" duration="6300000" />
       <workItem from="1476439355543" duration="10518000" />
       <workItem from="1476689245260" duration="16202000" />
-      <workItem from="1476783644018" duration="5653000" />
-      <workItem from="1476794251015" duration="1308000" />
+      <workItem from="1476783644018" duration="4617000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="register_wiggle_test_feature - 2016.10.18 at 14h 03m 09s.xml">
+      <configuration name="register_wiggle_test.feature" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="register_wiggle_test_feature - 2016.10.18 at 14h 10m 16s.xml">
+      <configuration name="register_wiggle_test.feature" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="register_wiggle_test_feature - 2016.10.18 at 14h 11m 24s.xml">
+      <configuration name="register_wiggle_test.feature" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
     <history-entry file="register_wiggle_test_feature - 2016.10.18 at 14h 14m 13s.xml">
       <configuration name="register_wiggle_test.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
@@ -641,29 +661,20 @@
     <history-entry file="register_wiggle_test_feature - 2016.10.18 at 14h 22m 14s.xml">
       <configuration name="register_wiggle_test.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="register_wiggle_test_feature - 2016.10.18 at 15h 53m 33s.xml">
-      <configuration name="register_wiggle_test.feature" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="register_wiggle_test_feature - 2016.10.18 at 15h 56m 38s.xml">
-      <configuration name="register_wiggle_test.feature" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="register_wiggle_test_feature - 2016.10.18 at 15h 58m 43s.xml">
-      <configuration name="register_wiggle_test.feature" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59171000" />
+    <option name="totallyTimeSpent" value="56827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13539445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13432837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3423913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3423913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -695,6 +706,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/register_wiggle_test_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -759,7 +794,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/my_example_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/src/my_example_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/features/register_wiggle_test.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -768,7 +809,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/my_example_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/src/my_example_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/features/example.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -793,7 +840,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.rb" />
-    <entry file="file://$PROJECT_DIR$/src/my_example_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/src/my_example_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -854,6 +907,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="1083" column="8" selection-start-line="1083" selection-start-column="8" selection-end-line="1083" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -869,6 +923,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -880,70 +935,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/my_example_spec.rb" />
-    <entry file="file://$PROJECT_DIR$/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/cucumber_screenshot_env.rb" />
-    <entry file="file://$PROJECT_DIR$/features/objects/user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snapshots/2016_10_18_2016_14_17_11_I_can_register_a_new_user.png" />
-    <entry file="file://$PROJECT_DIR$/snapshots/2016_10_18_14_18_23_I_can_register_a_new_user.png" />
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/objects/pages/wiggle_reg_login_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/features/step_definitions/example_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/objects/browser.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/register_wiggle_test_steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -956,27 +951,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snapshots/2016_10_18_15_56_36_I_can_register_a_new_user.png">
+    <entry file="file://$PROJECT_DIR$/src/my_example_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/register_wiggle_test.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/cucumber_screenshot_env.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" selection-start-line="11" selection-start-column="4" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/objects/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/objects/pages/wiggle_reg_login_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snapshots/2016_10_18_2016_14_17_11_I_can_register_a_new_user.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snapshots/2016_10_18_15_58_40_I_can_register_a_new_user.png">
+    <entry file="file://$PROJECT_DIR$/snapshots/2016_10_18_14_18_23_I_can_register_a_new_user.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/register_wiggle_test_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/snapshots/2016_10_18_14_22_12_I_can_register_a_new_user.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/register_wiggle_test.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-          <folding />
-        </state>
       </provider>
     </entry>
   </component>
