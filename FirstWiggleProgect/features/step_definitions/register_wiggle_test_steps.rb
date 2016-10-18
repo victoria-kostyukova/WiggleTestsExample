@@ -1,4 +1,5 @@
-Given(/^I am on the wiggle homepage$/) do
+Given(/^I am on the wiggle homepage in "([a-z]{,7})" browser$/) do |term|
+  @browser = Browser.new(term).browser
   @browser.goto "http://www.wiggle.co.uk/"
   expect(@browser.title).to include("Wiggle")
 end
