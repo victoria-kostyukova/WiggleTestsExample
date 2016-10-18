@@ -4,13 +4,13 @@ Bundler.require
 
 dir_path = "snapshots"
 
-Before do
-  @browser = Watir::Browser.new :chrome
-end
+# Before do
+#   @browser = Browser.new("chrome")
+# end
 
-After do
-  @browser.close
-end
+# After do
+#   @browser.close
+# end
 
 After do |scenario|
   if scenario.failed?
@@ -22,6 +22,7 @@ After do |scenario|
     puts "Name of snapshot is #{name_of_scenario}"
     puts "Scenario:: #{scenario.name}"
   end
+  @browser.close
 end
 
 # After do |scenario|
