@@ -17,7 +17,7 @@ When(/^I register a new user$/) do
   wiggle_reg_login_page.select_list_register_gender.select(@user.gender)
   wiggle_reg_login_page.text_field_register_password.set(@user.password)
   wiggle_reg_login_page.button_register.click
-  expect(wiggle_main_page.lable_welcome_name.text).to include(@user.firstName)
+  expect(wiggle_main_page.lable_welcome_name.text).to include(@user.gender)
 end
 
 Then(/^I can login using user credentials$/) do
