@@ -1,6 +1,16 @@
-? - user:
-      title: Mr.
-      gender: Male
-  - user:
-      title: Mrs.
-      gender: Female
+--- !ruby/object:User
+    email: DinWinchester@gmail.com
+    firstName: Din
+    surname: Winchester
+    title: Mr.
+    gender: Male
+    password: 123456
+
+
+--- !ruby/object:User
+    email: SaraWinchester@gmail.com
+    firstName: Sara
+    surname: Winchester
+    title: Mrs.
+    gender: Female
+    password: 123456

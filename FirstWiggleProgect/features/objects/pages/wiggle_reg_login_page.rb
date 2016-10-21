@@ -2,7 +2,7 @@ require "rubygems"
 require "bundler/setup"
 Bundler.require
 
-class Wiggle_reg_login_page
+class WiggleRegLoginPage
 
   attr_accessor :text_field_login_email, :text_field_register_email, :text_field_register_first_name, :radio_register_option, :text_field_register_password,
                 :button_login, :text_field_register_surname, :select_list_register_gender, :button_register, :text_field_login_password, :select_list_register_title, :radio_login_option
@@ -23,5 +23,22 @@ class Wiggle_reg_login_page
     @text_field_login_email = @browser.text_field(:id => "LogOnModel_UserName")
     @text_field_login_password = @browser.text_field(:id => "LogOnModel_Password")
     @button_login = @browser.button(:xpath => "//button[contains(text(), \"Login\")]")
+  end
+
+  def register(user)
+    @radio_register_option.when_present.set
+    @text_field_register_email.set(user.email)
+    @select_list_register_title.select(user.title)
+    @text_field_register_first_name.set(user.first_name)
+    @text_field_register_surname.set(user.surname)
+    @select_list_register_gender.select(user.gender)
+    @text_field_register_password.set(user.password)
+    @button_register.click
+  end
+
+  def login(user)
+    @text_field_login_email.set(user.email)
+    @text_field_login_password.set(user.password)
+    @button_login.click
   end
 end

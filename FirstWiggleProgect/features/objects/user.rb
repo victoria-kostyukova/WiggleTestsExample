@@ -1,24 +1,23 @@
 class User
 
-  attr_accessor :title, :surname, :email, :gender, :firstName, :password
+  attr_reader :title, :surname, :email, :gender, :first_name, :password
 
-  def initialize(title, gender)
-    @email, @title, @firstName, @surname, @gender, @password = self.generate_email, title, @timestamp_login, @timestamp_login, gender, "123456"
+  def initialize(email, title, first_name, surname, gender, password)
+    @email, @title, @first_name, @surname, @gender, @password = email, title, first_name, surname, gender, password
   end
 
-  def generate_timestamp_login
-    @timestamp_login = (Time.now.to_f * 1000).to_i.to_s + "wiggle"
-    @timestamp_login
+  def self.generate_timestamp_login
+    (Time.now.to_f * 1000).to_i.to_s + "wiggle"
   end
 
-  def generate_email
-    @email = generate_timestamp_login + "@gmail.com"
-    @email
+  def self.generate_email
+    generate_timestamp_login + "@gmail.com"
   end
 
   def to_s
-    "User email: "+ @email +", title: "+ @title +", firstName: "+ @firstName +", surname: "+ @surname +", gender: "+ @gender +", password: "+ @password
+    "User email: #{@email}, title: #{@title}, firstName: #{@first_name}, surname: #{@surname}, gender: #{@gender}, password: #{@password}"
   end
 
 
 end
+

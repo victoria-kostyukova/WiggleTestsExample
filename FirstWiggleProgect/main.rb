@@ -10,12 +10,29 @@ class Main
   # puts users.keys[0][2]
   # puts users.keys[0][2][users.keys[0][2].keys[0]]
   # puts users[users.keys[0][2].keys[0]]
-  puts users.keys[0]
-  puts users.keys[0][0]
-  puts users.keys[0][0]["user"]["title"]
-  puts users.keys[0][0]["user"]["gender"]
-  @user = User.new(users.keys[0][0]["user"]["title"], users.keys[0][0]["user"]["gender"])
-  puts @user.to_s
+  # puts users.keys[0]
+  # puts users.keys[0][0]
+  # puts users.keys[0][0]["user"]["title"]
+  # puts users.keys[0][0]["user"]["gender"]
+
+  array = []
+  $/="\n\n"
+  File.open("users.yml", "r").each do |object|
+    array << YAML::load(object)
+  end
+
+  array.each do |object|
+    puts object.class
+    puts object.to_s
+  end
+  puts array[0].email
+
+  puts ENV['BROWSER']
+
+
+  # puts users.to_s
+  # @user = users[0].login
+  # puts @user
 end
 
 # yaml example
