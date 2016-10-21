@@ -6,6 +6,7 @@ dir_path = "snapshots"
 
 Before do
   @browser = Watir::Browser.new ENV['BROWSER'].downcase.to_sym
+  @browser.window.maximize
 end
 
 After do |scenario|
